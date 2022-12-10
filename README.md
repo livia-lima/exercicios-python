@@ -13,7 +13,13 @@ Todos as fontes serão listadas aqui.
   <h3> ꒰💌꒱ Lista de fontes </h3>
 </div>
 
-- Nada por aqui ainda :)
+<details>
+  <summary> 
+    <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye"> Curso de Python 3, mundo 2 </a> 
+  </summary>
+
+  - <a href="https://www.youtube.com/watch?v=QtElJDa9ICM&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=18"> Exercício 49 (tabuada) </a>
+</details>
 
 <div align="center">
   <h1>・゜・。. 🚀 Obrigada por ler até aqui! </h1>
