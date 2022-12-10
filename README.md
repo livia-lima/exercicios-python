@@ -19,6 +19,8 @@ Todos as fontes serão listadas aqui.
   </summary>
 
   - <a href="https://www.youtube.com/watch?v=QtElJDa9ICM&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=18"> Exercício 49 (tabuada) </a>
+
+  - <a href="https://www.youtube.com/watch?v=-OnqSGh0u4g&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=19"> Exercício 51 (progressão aritmética) </a>
 </details>
 
 <div align="center">
