@@ -13,8 +13,8 @@ lista_pares: list[int] = []
 lista_ímpares: list[int] = []
 for i, valores in enumerate(lista_principal):
     if valores % 2 == 0:
-        lista_pares.append(valores)
+        lista_pares.append(valores)  # lista com os valores ímpares
     else:
         lista_ímpares.append(valores)
 print(f'Os valores pares digitados foram {lista_pares}')
-print(f'Ov valores ímpares digitados foram {lista_ímpares}')
+print(f'Os valores ímpares digitados foram {lista_ímpares}')
