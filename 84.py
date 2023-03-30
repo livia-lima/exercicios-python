@@ -26,4 +26,6 @@ while True:
     continuar = str(input('Deseja continuar? [S/N] ')).lower().strip()[0]
     if continuar in 'n':
         break
-print(f'maior peso {maiorpeso}, menor peso {menorpeso}')
+print(f'{contador} pessoas foram cadastradas.')
+print(
+    f'O maior peso cadastrado foi {maiorpeso}kg, e o menor foi {menorpeso}kg')
